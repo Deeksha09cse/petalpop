@@ -1,0 +1,26 @@
+
+{
+  "name": "PetalPop To-Do",
+  "short_name": "PetalPop",
+  "description": "A little pink space for your daily tasks.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8fb",
+  "theme_color": "#f6b8d0",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
